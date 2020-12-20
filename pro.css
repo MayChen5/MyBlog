@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+article{ 
+    width: 700px;
+    height:600px;
+    float:right;
+    background-color:#D8F4F1;
+	padding: 30.3px;
+}
+aside{
+    float:left;
+	width: 270px;
+	height:  630px;
+	padding: 15.1px;
+	background-color: #BCFFF3;
+	text-align: center
+}
+header{
+	padding: 14px;
+	background-color:#AFDED2;
+	text-align: center;
+	font-size: 17px;
+	color:#1A7D79;
+}
+nav{
+	padding: 30px;
+	background-color:#7ACCB6;
+}
+a{
+	padding: 30px;
+	text-align: center;
+}
+
+a:hover{
+	color:#C4FFFE;
+    background-color:#2FAF97;
+}
+a:visited {
+	color:#1C5645;
+}
+p{
+	font-family: "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 17px;
+}
+footer{
+	padding: 10px;
+	text-align: center;
+	font-size: 8px;
+	background-color: #7ACCB6;
+	clear: both;
+}
+
